@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayushsagar0013
 - 👀 I’m interested in development
-- 🌱 I’m currently learning nodeJs
+- 🌱 I’m working on Java bassed microservices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
